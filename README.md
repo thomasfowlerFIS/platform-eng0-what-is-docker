@@ -1,10 +1,15 @@
 # What is Docker?
 
-Docker is a platform that provides the ability to create, run, and manage containers. 
+Docker is a platform that provides the ability to create, run, and manage containers.
 
 The Docker Engine is the containerization technology for building and containerizing applications. It’s the “brain” of the Docker platform. It is responsible for creating isolated environments and running processes in them.
 
-![Docker runtime diagram](diagram-1.png)
+<!-- ![Docker runtime diagram](diagram-1.png) -->
+--------------------------------------------
+
+<img alt="Container diagram" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-is-docker/master/diagram-1.png?raw=true" />
+
+--------------------------------------------
 
 The Docker Engine acts as a client-server application with:
 
